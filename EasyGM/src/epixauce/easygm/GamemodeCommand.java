@@ -1,3 +1,7 @@
+/* Created by Kyle Moore (Epixauce)
+ * Created for free and personal use when testing individual plugins without needing
+ * something heavy like essentials for /gm
+*/
 package epixauce.easygm;
 
 import org.bukkit.ChatColor;
