@@ -1,0 +1,8 @@
+name: EasyGM
+main: epixauce.easygm.EasyGM
+author: Epixauce
+version: 1.0
+description: A simple, light way to swap gamemodes.
+commands:
+  gm:
+    usage: /gm
