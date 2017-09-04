@@ -1,2 +1,2 @@
 # EasyGM
-Easily swap game modes in with /gm &lt;0-3>
+Easily swap game modes with /gm &lt;0-3>
